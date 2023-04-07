@@ -16,6 +16,16 @@ nav a {
   padding: 0.01px;
   text-decoration: none;
 }
+head{
+	<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About Us</a></li>
+    <li><a href="#">Football Tips</a></li>
+    <li><a href="#">Contact Us</a></li>
+  </ul>
+</nav>
+
 
 nav img {
   display: caption-side;
