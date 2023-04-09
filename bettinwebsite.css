@@ -84,9 +84,9 @@ nav img {
     color: #f9004d;
     transition: .10s;
 }
-body {
+
   body {
-			background-image: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGW62msD32Z2Bq_9iW23ALe2xkvN5pCBroQ&usqp=CAU.jpg");
+			background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGW62msD32Z2Bq_9iW23ALe2xkvN5pCBroQ&usqp=CAU.jpg");
 			background-size: contain;
 		}
 
