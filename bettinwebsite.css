@@ -86,7 +86,7 @@ nav img {
 }
 
   body {
-background-image: url("https://scontent.fnbo12-1.fna.fbcdn.net/v/t39.30808-6/339466530_1416159185588896_7150330443927273209_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeHU4RDG2ieI3K7kosu8kpjPTl0RRq5D-ZVOXRFGrkP5lchMwOdjJ9VBp28RKPKei57gJK1onppvPsK3lMhKOD8x&_nc_ohc=HvHaCaDnR10AX-EO5wA&_nc_ht=scontent.fnbo12-1.fna&oh=00_AfDO3ZURIVqwRG9Z9W9xXl-VZm_bNL-YtMpKX4H8BxC9ag&oe=64385C9A.jpg"); /* Set the URL of the background image */
+background-image: url("https://scontent.fnbo12-1.fna.fbcdn.net/v/t39.30808-6/339466530_1416159185588896_7150330443927273209_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeHU4RDG2ieI3K7kosu8kpjPTl0RRq5D-ZVOXRFGrkP5lchMwOdjJ9VBp28RKPKei57gJK1onppvPsK3lMhKOD8x&_nc_ohc=HvHaCaDnR10AX-EO5wA&_nc_ht=scontent.fnbo12-1.fna&oh=00_AfDO3ZURIVqwRG9Z9W9xXl-VZm_bNL-YtMpKX4H8BxC9ag&oe=64385C9A"); /* Set the URL of the background image */
 			background-size: cover; /* Scale the image to cover the entire background area */
 			background-position: center; /* Center the image within the background area */
 			background-repeat: no-repeat; /* Prevent the image from repeating */
