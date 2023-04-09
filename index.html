@@ -1,6 +1,18 @@
 
 <html>
 <head>
+	<script>function animateBackground() {
+  var bg = document.getElementById("bg");
+  var hue = 0;
+  setInterval(function() {
+    hue = (hue + 1) % 360;
+    bg.style.backgroundColor = "hsl(" + hue + ", 50%, 50%)";
+  }, 10);
+}
+
+animateBackground();
+	</script>
+
  <meta name="description" content="Kenyas leading free odds platform,free daily sure odds is extraOrdinary online sports prediction platform. join to enjoy free odds, 10Mb prediction app, soccer predictions, best betting tips, soccer tips, cashless tips, + more.">
 <meta name="keywords" content="FLAVIAN KE TIPS">
 <meta name="author" content="shetaniNiFisiTips">
@@ -12,7 +24,7 @@
 	
 </head>
 <body>
-
+<div id="bg"></div>
 	<ul class="un">
 		<li><a href="#" target="_blank" >HOME</a></li>
 		<li><a href="#about">ABOUT US</a></li>
