@@ -86,7 +86,7 @@ nav img {
 }
 
   body {
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyh_7CrjthNo1G1bSgDHNhbvNn1MOG0LeWoA&usqp=CAU"); /* Set the URL of the background image */
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyh_7CrjthNo1G1bSgDHNhbvNn1MOG0LeWoA&usqp=CAU.jpg"); /* Set the URL of the background image */
 			background-size: contain; /* Scale the image to cover the entire background area */
 			background-position: center; /* Center the image within the background area */
 			background-repeat: no-repeat; /* Prevent the image from repeating */
